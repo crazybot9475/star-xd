@@ -6,12 +6,12 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Your session ID (get it by running the bot locally first)",
+      "description": "king~k8PEyi",
       "required": true,
       "value": ""
     },
     "OWNER_NUMBER": {
-      "description": "Your WhatsApp number with country code (e.g. 263701234567)",
+      "description": "919475729566",
       "required": true,
       "value": "263000000000"
     },
